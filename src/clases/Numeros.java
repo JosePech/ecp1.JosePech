@@ -17,5 +17,9 @@ public class Numeros {
     public double divide(double a, double b){
         return a/b;
     }
+    
+    public double absolute(double a){
+        return Math.abs(a);
+    }
 
 }
