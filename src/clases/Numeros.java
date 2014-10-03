@@ -30,6 +30,12 @@ public class Numeros {
         return Math.pow(a,b);
     }
     
-    
+    public static double mayor(double a, double b){
+        if(a > b){
+            return a;
+        }else{
+            return b;
+        }
+    }
 
 }
