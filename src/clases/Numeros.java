@@ -25,5 +25,9 @@ public class Numeros {
     public static double negativo(double a){
         return multiplica(a, -1.0);
     }
+    
+    public static double potencia(double a, double b){
+        return Math.pow(a,b);
+    }
 
 }
