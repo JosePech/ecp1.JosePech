@@ -18,8 +18,12 @@ public class Numeros {
         return a/b;
     }
     
-    public double absolute(double a){
+    public double absoluto(double a){
         return Math.abs(a);
+    }
+    
+    public static double negativo(double a){
+        return multiplica(a, -1.0);
     }
 
 }
