@@ -6,7 +6,7 @@ public class Numeros {
         return a + b;
     }
     
-    public double resta(double a, double b){
+    public static double resta(double a, double b){
         return a - b;
     }
     
