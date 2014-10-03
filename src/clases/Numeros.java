@@ -14,7 +14,7 @@ public class Numeros {
         return a * b;
     }
     
-    public double divide(double a, double b){
+    public static double divide(double a, double b){
         return a/b;
     }
     
