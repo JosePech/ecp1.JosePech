@@ -2,7 +2,7 @@ package clases;
 
 public class Numeros {
     
-    public double suma(double a, double b){
+    public static double suma(double a, double b){
         return a + b;
     }
     
