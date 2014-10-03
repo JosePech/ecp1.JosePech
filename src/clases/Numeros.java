@@ -18,7 +18,7 @@ public class Numeros {
         return a/b;
     }
     
-    public double absoluto(double a){
+    public static double absoluto(double a){
         return Math.abs(a);
     }
     
