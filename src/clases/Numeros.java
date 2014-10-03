@@ -10,7 +10,7 @@ public class Numeros {
         return a - b;
     }
     
-    public double multiplica(double a, double b){
+    public static double multiplica(double a, double b){
         return a * b;
     }
 
